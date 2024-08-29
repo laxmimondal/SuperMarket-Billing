@@ -1,6 +1,6 @@
 #include <iostream>
-#include <fstream>
-#include <sstream>
+#include <fstream> ///file I/O operation , file stream
+#include <sstream> //String stream , allows to treat string as stream
 #include <windows.h>
 using namespace std;
 
